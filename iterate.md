@@ -40,4 +40,3 @@ In summary, while Chomsky gravitates towards universal truths and structures (pr
                  4. Hierarchical
 ```
 
-I hope this revised version aligns with your intentions. Let me know if you'd like further adjustments!
