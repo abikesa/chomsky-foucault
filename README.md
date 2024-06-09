@@ -3,9 +3,9 @@
 ```
          1. Voir
                 \
-   3. Cinema ->  2. Savoir -> 5. Identity -> 6. Change
+   2. Cinema ->  4. Savoir -> 5. Identity -> 6. Change
                  /
-                 4. Pouvoir
+                 3. Pouvoir
 ```
 
 The [Chomsky-Foucault debate of 1971](https://www.youtube.com/watch?v=xpVQ3l5P0A4) was a significant intellectual exchange between two of the 20th century's most prominent thinkers: Noam Chomsky and Michel Foucault. The debate took place on Dutch television and covered a range of topics, but the main points of contention revolved around human nature, politics, and epistemology. Here's a brief summary of their positions:
@@ -32,7 +32,7 @@ In essence, while Chomsky seeks universal truths and structures (especially in l
 ```
             1. Data
                  \
-   3. Methods ->  2. Literature -> 5. Continuous -> 6. Time-to-event
+   2. Methods ->  4. Literature -> 5. Continuous -> 6. Time-to-event
                  /
-                 4. Hierarchical
+                 3. Hierarchical
 ```
