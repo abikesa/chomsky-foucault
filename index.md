@@ -1,8 +1,8 @@
-                     1. Data
-                            \
-          2. Algorithms ->  4. RLHF -> 5. GPT-4o -> 6. Exponential-subscriptions
-                            /
-                            3. Processing
+                            1. Data
+                                    \
+          2. Algorithms-Compute ->  4. Reinforcement-Learning via Human-Feedback -> 5. Deployment  -> 6. Subscriber-Growth
+                                    /
+                                    3. Predicted-Tokens
 
 
 Noam Chomsky's [work](README.md) in linguistics, particularly his development of transformational grammar, had a profound influence on the field of natural language processing (NLP). However, the evolution of GPT (Generative Pre-trained Transformer) models and other modern NLP technologies relies heavily on advances in machine learning and neural network architectures. Here’s an exploration of the impact:
