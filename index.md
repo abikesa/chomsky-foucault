@@ -5,7 +5,7 @@
                                     3. Predicted-Tokens
 
 
-Noam Chomsky's [work](https://github.com/abikesa/chomsky-foucault/blob/main/README.md) in linguistics, particularly his development of [transformational](transformational_analysis.pdf) grammar, had a profound influence on the field of natural language processing (NLP). However, the evolution of GPT (Generative Pre-trained Transformer) models and other modern NLP technologies relies heavily on advances in machine learning and neural network architectures. Here’s an exploration of the impact:
+[Noam Chomsky's](https://www.proquest.com/docview/89172813) [work](https://github.com/abikesa/chomsky-foucault/blob/main/README.md) in linguistics, particularly his development of [transformational](transformational_analysis.pdf) grammar, had a profound influence on the field of natural language processing (NLP). However, the evolution of GPT (Generative Pre-trained Transformer) models and other modern NLP technologies relies heavily on advances in machine learning and neural network architectures. Here’s an exploration of the impact:
 
 ### Chomsky's Influence on Linguistics and NLP
 
